@@ -11110,8 +11110,8 @@ msgid ""
 "for lossless, 0 is the fastest but gives larger files compared\n"
 "to the slowest 100."
 msgstr ""
-"有損壓縮：0 代表壓縮比最高檔案最小，100 代表壓縮比最低品質最高無損壓縮：0 代"
-"表壓縮最快但檔案大，100 代表壓縮最慢但檔案小"
+"有損壓縮：0 代表壓縮比最高檔案最小，100 代表壓縮比最低品質最高\n"
+"無損壓縮：0 代表壓縮最快但檔案大，100 代表壓縮最慢但檔案小"
 
 #: ../src/imageio/format/webp.c:405
 msgid "image hint"
